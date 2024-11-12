@@ -69,7 +69,7 @@ nav a.active{
         position: absolute;
         top: 0;
         right: 0;
-        width: 40%;
+        width: 20%;
         border-bottom-left-radius: 2rem;
         padding: 1rem solid;
         border-top: 0.1rem solid rgba(0,0,0,0.1);
